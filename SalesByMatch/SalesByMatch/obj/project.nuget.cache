@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9wc6a2G5f47Cd1fU8D2k8EnHtFnwMPcA8DFmRQeoPY2X7WWBxeMc58ff2zqu1bTpXZwZJy+8e9Cwstc78zdgsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Janek\\source\\repos\\HackerRank\\SalesByMatch\\SalesByMatch\\SalesByMatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Janek\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

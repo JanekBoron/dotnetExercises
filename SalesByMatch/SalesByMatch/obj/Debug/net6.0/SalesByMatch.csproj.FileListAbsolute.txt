@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\bin\Debug\net6.0\SalesByMatch.exe
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\bin\Debug\net6.0\SalesByMatch.deps.json
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\bin\Debug\net6.0\SalesByMatch.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\bin\Debug\net6.0\SalesByMatch.dll
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\bin\Debug\net6.0\SalesByMatch.pdb
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.dll
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\refint\SalesByMatch.dll
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.pdb
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\SalesByMatch.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\SalesByMatch\SalesByMatch\obj\Debug\net6.0\ref\SalesByMatch.dll

@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\bin\Debug\net6.0\OrganizingContainerOfBalls.exe
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\bin\Debug\net6.0\OrganizingContainerOfBalls.deps.json
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\bin\Debug\net6.0\OrganizingContainerOfBalls.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\bin\Debug\net6.0\OrganizingContainerOfBalls.dll
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\bin\Debug\net6.0\OrganizingContainerOfBalls.pdb
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.dll
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\refint\OrganizingContainerOfBalls.dll
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.pdb
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\OrganizingContainerOfBalls.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\OrganizingContainerOfBalls\OrganizingContainerOfBalls\obj\Debug\net6.0\ref\OrganizingContainerOfBalls.dll

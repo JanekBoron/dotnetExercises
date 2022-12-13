@@ -1,0 +1,5 @@
+C:\Users\Janek\source\repos\HackerRank\Testing\Testing\obj\Debug\net6.0\Testing.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\Testing\Testing\obj\Debug\net6.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\Testing\Testing\obj\Debug\net6.0\Testing.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\Testing\Testing\obj\Debug\net6.0\Testing.csproj.CoreCompileInputs.cache

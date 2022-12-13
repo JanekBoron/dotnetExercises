@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net6.0\ClimbingTheLeaderboard.exe
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net6.0\ClimbingTheLeaderboard.deps.json
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net6.0\ClimbingTheLeaderboard.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net6.0\ClimbingTheLeaderboard.dll
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\bin\Debug\net6.0\ClimbingTheLeaderboard.pdb
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.dll
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\refint\ClimbingTheLeaderboard.dll
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.pdb
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ClimbingTheLeaderboard.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\ClimbingTheLeaderboard\ClimbingTheLeaderboard\obj\Debug\net6.0\ref\ClimbingTheLeaderboard.dll

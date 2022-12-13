@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppleAndOrange/1.0.0": {
+        "runtime": {
+          "AppleAndOrange.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppleAndOrange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\bin\Debug\net6.0\BillDivision.exe
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\bin\Debug\net6.0\BillDivision.deps.json
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\bin\Debug\net6.0\BillDivision.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\bin\Debug\net6.0\BillDivision.dll
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\bin\Debug\net6.0\BillDivision.pdb
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.dll
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\refint\BillDivision.dll
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.pdb
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\BillDivision.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\BillDivision\BillDivision\obj\Debug\net6.0\ref\BillDivision.dll

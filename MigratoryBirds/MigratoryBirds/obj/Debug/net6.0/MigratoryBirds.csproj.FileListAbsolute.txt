@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\bin\Debug\net6.0\MigratoryBirds.exe
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\bin\Debug\net6.0\MigratoryBirds.deps.json
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\bin\Debug\net6.0\MigratoryBirds.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\bin\Debug\net6.0\MigratoryBirds.dll
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\bin\Debug\net6.0\MigratoryBirds.pdb
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.dll
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\refint\MigratoryBirds.dll
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.pdb
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\MigratoryBirds.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\MigratoryBirds\MigratoryBirds\obj\Debug\net6.0\ref\MigratoryBirds.dll

@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.exe
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.deps.json
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.dll
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\bin\Debug\net6.0\DivisibleSumPairs.pdb
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.dll
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\refint\DivisibleSumPairs.dll
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.pdb
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\DivisibleSumPairs.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\DivisibleSumPairs\DivisibleSumPairs\obj\Debug\net6.0\ref\DivisibleSumPairs.dll

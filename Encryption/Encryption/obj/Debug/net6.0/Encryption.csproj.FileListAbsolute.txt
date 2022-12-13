@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\bin\Debug\net6.0\Encryption.exe
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\bin\Debug\net6.0\Encryption.deps.json
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\bin\Debug\net6.0\Encryption.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\bin\Debug\net6.0\Encryption.dll
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\bin\Debug\net6.0\Encryption.pdb
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.dll
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\refint\Encryption.dll
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.pdb
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\Encryption.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\Encryption\Encryption\obj\Debug\net6.0\ref\Encryption.dll

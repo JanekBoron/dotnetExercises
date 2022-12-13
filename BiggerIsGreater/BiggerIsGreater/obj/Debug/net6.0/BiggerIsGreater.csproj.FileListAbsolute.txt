@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\net6.0\BiggerIsGreater.exe
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\net6.0\BiggerIsGreater.deps.json
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\net6.0\BiggerIsGreater.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\net6.0\BiggerIsGreater.dll
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\bin\Debug\net6.0\BiggerIsGreater.pdb
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.dll
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\refint\BiggerIsGreater.dll
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.pdb
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\BiggerIsGreater.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\BiggerIsGreater\BiggerIsGreater\obj\Debug\net6.0\ref\BiggerIsGreater.dll

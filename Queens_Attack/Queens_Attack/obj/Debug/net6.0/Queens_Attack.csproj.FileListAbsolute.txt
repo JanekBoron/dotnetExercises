@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\bin\Debug\net6.0\Queens_Attack.exe
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\bin\Debug\net6.0\Queens_Attack.deps.json
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\bin\Debug\net6.0\Queens_Attack.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\bin\Debug\net6.0\Queens_Attack.dll
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\bin\Debug\net6.0\Queens_Attack.pdb
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.dll
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\refint\Queens_Attack.dll
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.pdb
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\Queens_Attack.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\Queens_Attack\Queens_Attack\obj\Debug\net6.0\ref\Queens_Attack.dll

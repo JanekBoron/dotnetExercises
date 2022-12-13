@@ -1,0 +1,15 @@
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\bin\Debug\net6.0\KangarooJumps.exe
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\bin\Debug\net6.0\KangarooJumps.deps.json
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\bin\Debug\net6.0\KangarooJumps.runtimeconfig.json
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\bin\Debug\net6.0\KangarooJumps.dll
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\bin\Debug\net6.0\KangarooJumps.pdb
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.csproj.AssemblyReference.cache
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.AssemblyInfoInputs.cache
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.AssemblyInfo.cs
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.dll
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\refint\KangarooJumps.dll
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.pdb
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\KangarooJumps.genruntimeconfig.cache
+C:\Users\Janek\source\repos\HackerRank\KangarooJumps\KangarooJumps\obj\Debug\net6.0\ref\KangarooJumps.dll
